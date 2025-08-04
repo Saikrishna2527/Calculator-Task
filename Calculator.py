@@ -53,4 +53,32 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+#output
+# Simple Calculator CLI App
+# Operations:
+# 1. Add
+# 2. Subtract
+# 3. Multiply
+# 4. Divide
+# Select operation (1/2/3/4 or q to quit): 1
+# Enter first number: 2
+# Enter second number: 5
+# Result: 7
+# Select operation (1/2/3/4 or q to quit): 2
+# Enter first number: 7
+# Enter second number: 2
+# Result: 5
+# Select operation (1/2/3/4 or q to quit): 3
+# Enter first number: 7
+# Enter second number: 2
+# Result: 14
+# Select operation (1/2/3/4 or q to quit): 4
+# Enter first number: 10
+# Enter second number: 5
+# Result: 2.0
+# Select operation (1/2/3/4 or q to quit): q
+# Thanks for choosing me!
+
+# Process finished with exit code 0
 
